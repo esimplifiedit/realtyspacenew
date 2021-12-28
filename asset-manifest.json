@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/realtyspacenew/static/css/main.8360129b.chunk.css",
-    "main.js": "/realtyspacenew/static/js/main.7b244c26.chunk.js",
-    "main.js.map": "/realtyspacenew/static/js/main.7b244c26.chunk.js.map",
+    "main.css": "/realtyspacenew/static/css/main.f1b65c47.chunk.css",
+    "main.js": "/realtyspacenew/static/js/main.6eb9b309.chunk.js",
+    "main.js.map": "/realtyspacenew/static/js/main.6eb9b309.chunk.js.map",
     "runtime-main.js": "/realtyspacenew/static/js/runtime-main.ac6a1e80.js",
     "runtime-main.js.map": "/realtyspacenew/static/js/runtime-main.ac6a1e80.js.map",
-    "static/css/2.ae678e37.chunk.css": "/realtyspacenew/static/css/2.ae678e37.chunk.css",
-    "static/js/2.c8116dd5.chunk.js": "/realtyspacenew/static/js/2.c8116dd5.chunk.js",
-    "static/js/2.c8116dd5.chunk.js.map": "/realtyspacenew/static/js/2.c8116dd5.chunk.js.map",
+    "static/css/2.294a9f75.chunk.css": "/realtyspacenew/static/css/2.294a9f75.chunk.css",
+    "static/js/2.8bd11117.chunk.js": "/realtyspacenew/static/js/2.8bd11117.chunk.js",
+    "static/js/2.8bd11117.chunk.js.map": "/realtyspacenew/static/js/2.8bd11117.chunk.js.map",
     "index.html": "/realtyspacenew/index.html",
-    "static/css/2.ae678e37.chunk.css.map": "/realtyspacenew/static/css/2.ae678e37.chunk.css.map",
-    "static/css/main.8360129b.chunk.css.map": "/realtyspacenew/static/css/main.8360129b.chunk.css.map",
-    "static/js/2.c8116dd5.chunk.js.LICENSE.txt": "/realtyspacenew/static/js/2.c8116dd5.chunk.js.LICENSE.txt",
+    "static/css/2.294a9f75.chunk.css.map": "/realtyspacenew/static/css/2.294a9f75.chunk.css.map",
+    "static/css/main.f1b65c47.chunk.css.map": "/realtyspacenew/static/css/main.f1b65c47.chunk.css.map",
+    "static/js/2.8bd11117.chunk.js.LICENSE.txt": "/realtyspacenew/static/js/2.8bd11117.chunk.js.LICENSE.txt",
     "static/media/634511614013627295_Lifetime Developments.ad019fa9.JPG": "/realtyspacenew/static/media/634511614013627295_Lifetime Developments.ad019fa9.JPG",
     "static/media/Pro-1a.2c9531bf.png": "/realtyspacenew/static/media/Pro-1a.2c9531bf.png",
     "static/media/Pro-1b.cb73a2f0.png": "/realtyspacenew/static/media/Pro-1b.cb73a2f0.png",
@@ -47,9 +47,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ac6a1e80.js",
-    "static/css/2.ae678e37.chunk.css",
-    "static/js/2.c8116dd5.chunk.js",
-    "static/css/main.8360129b.chunk.css",
-    "static/js/main.7b244c26.chunk.js"
+    "static/css/2.294a9f75.chunk.css",
+    "static/js/2.8bd11117.chunk.js",
+    "static/css/main.f1b65c47.chunk.css",
+    "static/js/main.6eb9b309.chunk.js"
   ]
 }
